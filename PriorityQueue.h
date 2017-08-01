@@ -274,7 +274,6 @@ public:
 
   /*
    * Returns true if the queue has no elements, false otherwise.
-   * Do a testing about git
    */
   bool empty() {
 
